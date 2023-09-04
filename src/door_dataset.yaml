@@ -1,0 +1,19 @@
+train: C:/Users/61451/yolov5/data/door_dataset/images/training
+val: C:/Users/61451/yolov5/data/door_dataset/images/validation
+
+# number of classes
+nc: 4
+
+# class names
+classes: 
+- door
+- handle
+- cabinet door
+- refrigerator door
+
+# names
+names: 
+- door
+- handle
+- cabinet door
+- refrigerator door
